@@ -1,0 +1,115 @@
+% !TeX program = xelatex
+
+\documentclass[10pt,a4paper]{article}
+\usepackage[inline]{enumitem}
+\usepackage{pgfplots}
+\usetikzlibrary{calc}
+\newcommand{\drawaline}[4]{
+	\draw [extended line=1cm,stealth-stealth] (#1,#2)--(#3,#4);
+}
+\usepackage{float}
+\usepackage{tikz}
+\usetikzlibrary {positioning}
+%\usepackage {xcolor}
+\definecolor {processblue}{cmyk}{0.96,0,0,0}
+
+\usetikzlibrary{automata,arrows.meta}
+
+\usepackage{commons/course}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{neuralnetwork}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=cyan,
+	filecolor=blue,      
+	urlcolor=magenta,
+}
+
+
+%\hidesolutions
+
+\شروع{نوشتار}
+
+\سربرگ{تمرین سری اول}{مفاهیم اولیه}{موعد تحویل: 22 آبان}{مدرس: دکتر بیگی}
+
+\begin{itemize}
+	\small
+	\setlength\itemsep{0.05em}
+	\item
+	مهلت ارسال پاسخ تا ساعت 23:59 روز مشخص‌شده است.
+	%	\item
+	%	در طول ترم امکان ارسال با تاخیر  پاسخ همه‌ی تمارین (به استثنای هفته‌ی امتحان میانترم) تا سقف پنج روز و در مجموع ۱۵ روز، وجود دارد. پس از گذشت این مدت، پاسخ‌های ارسال‌شده پذیرفته نخواهند‌بود. 
+	\item
+	هم‌کاری و هم‌فکری شما در انجام تمرین مانعی ندارد اما پاسخ ارسالی هر کس حتما باید توسط خود او نوشته شده‌ باشد. 
+	\item
+	در صورت هم‌فکری و یا استفاده از هر منابع خارج درسی، نام هم‌فکران و آدرس منابع مورد استفاده ‌برای حل سوال مورد نظر را ذکر‌ کنید.
+	\item
+	لطفا تصویری واضح از پاسخ سوالات نظری بارگذاری کنید. در غیر این صورت پاسخ شما تصحیح نخواهد شد.
+\end{itemize}
+
+
+\section*{سوالات نظری (95 نمره)}
+
+\مسئله{(10 نمره)‌}
+\input{questions/1.tex}
+
+\حل{
+	\input{answers/1-hint.tex}
+}
+
+
+
+\مسئله{(10 نمره)}
+\input{questions/2.tex}
+
+\حل{
+
+	\input{answers/2-hint.tex}
+}
+
+
+
+\مسئله{(20 نمره)}
+\input{questions/3.tex}
+
+\حل{
+	\input{answers/3-hint.tex}
+}
+
+\مسئله{(20 نمره)}
+ \input{questions/4.tex}
+
+\حل{
+\input{answers/4-hint.tex}
+}
+
+\مسئله{(15 نمره)}
+\input{questions/5.tex}
+
+\حل{
+\input{answers/5-hint.tex}
+}
+
+\مسئله{(20 نمره)}
+\input{questions/6.tex}
+
+\حل{
+\input{answers/6-hint.tex}
+}
+
+
+\section*{سوالات عملی (15 نمره)}
+\مسئله{(15 نمره)}
+\input{questions/prac1.tex}
+
+
+\begin{flushleft}
+	موفق باشید :)
+\end{flushleft}
+
+
+
+\پایان{نوشتار}
