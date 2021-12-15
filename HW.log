@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  19 NOV 2021 13:56
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  15 DEC 2021 16:28
 entering extended mode
 **./HW.tex
 (HW.tex
@@ -1696,57 +1696,42 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
 (Font)              scaled to size 14.39996pt on input line 57.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 (Font)              scaled to size 14.39996pt on input line 57.
-(questions/1.tex) (answers/1-hint.tex
+(questions/1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 4.
+(Font)              scaled to size 11.99997pt on input line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 4.
+(Font)              scaled to size 8.39998pt on input line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <10> not ava
 ilable
 (Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 4.
+t line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 4.
+(Font)              scaled to size 11.99997pt on input line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <7> not avai
 lable
 (Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 4.
+t line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 8.39998pt on input line 4.
+(Font)              scaled to size 8.39998pt on input line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 11.99997pt on input line 4.
+(Font)              scaled to size 11.99997pt on input line 5.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 8.39998pt on input line 4.
+(Font)              scaled to size 8.39998pt on input line 5.
+) (questions/2.tex
+Overfull \hbox (2.88853pt too wide) in paragraph at lines 16--17
+[][]\TU/XBNiloofar.ttf(0)/m/n/10 هذف از افزودن ضریب beta چیست و اضافه کردن آن چ
+ه تاثیری روی ویژگی‌های فضای نهان یادگرفته‌شده[]
+ []
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 4.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 6.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 8.
-
-) (questions/2.tex) (answers/2-hint.tex
 (C:\Users\amira\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-ascii-pr
 int.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-]) (questions/3.tex) (answers/3-hint.tex
-Missing character: There is no ‌ in font cmr10!
- [2]) (questions/4.tex)
-(answers/4-hint.tex [3]) (questions/5.tex) (answers/5-hint.tex [4])
-(questions/6.tex [5]) (answers/6-hint.tex
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 39.
-
-[6]
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 94.
-
-[7]) (questions/prac1.tex) [8] [9]
+]) (questions/3.tex) (questions/4.tex) (questions/5.tex)
+(questions/6.tex [2]) (questions/prac1.tex) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (HW.aux)
@@ -1761,12 +1746,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 42230 strings out of 414071
- 963960 string characters out of 2894590
- 1465793 words of memory out of 3000000
- 59078 multiletter control sequences out of 15000+200000
+ 42199 strings out of 414071
+ 963412 string characters out of 2894590
+ 1461782 words of memory out of 3000000
+ 59066 multiletter control sequences out of 15000+200000
  537827 words of font info for 86 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,17n,98p,4820b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,8n,98p,4820b,578s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on HW.pdf (9 pages).
+Output written on HW.pdf (3 pages).
