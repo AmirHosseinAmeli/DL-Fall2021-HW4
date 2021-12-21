@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  15 DEC 2021 16:28
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  21 DEC 2021 07:39
 entering extended mode
 **./HW.tex
 (HW.tex
@@ -1748,7 +1748,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
 Here is how much of TeX's memory you used:
  42199 strings out of 414071
  963412 string characters out of 2894590
- 1461782 words of memory out of 3000000
+ 1461781 words of memory out of 3000000
  59066 multiletter control sequences out of 15000+200000
  537827 words of font info for 86 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
