@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  21 DEC 2021 07:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.11.22)  26 DEC 2021 14:29
 entering extended mode
 **./HW.tex
 (HW.tex
@@ -1731,27 +1731,37 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
 
 ]) (questions/3.tex) (questions/4.tex) (questions/5.tex)
-(questions/6.tex [2]) (questions/prac1.tex) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+(questions/prac1.tex) [2] (questions/prac2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+[][]
+ []
+
+) [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (HW.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 42199 strings out of 414071
- 963412 string characters out of 2894590
- 1461781 words of memory out of 3000000
- 59066 multiletter control sequences out of 15000+200000
- 537827 words of font info for 86 fonts, out of 3000000 for 9000
+ 42202 strings out of 414071
+ 963574 string characters out of 2894590
+ 1462782 words of memory out of 3000000
+ 59067 multiletter control sequences out of 15000+200000
+ 537835 words of font info for 87 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,8n,98p,4820b,578s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,5n,98p,4820b,578s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on HW.pdf (3 pages).
